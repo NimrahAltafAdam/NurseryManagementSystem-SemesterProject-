@@ -1,1 +1,5 @@
 # NurseryManagementSystem-SemesterProject-
+Product Scope  
+Majorly, this system pertains to sales and record management system features that belongs to a plant store. This system is designed for automating the system used in a shop for all concerned operations. Generally, the whole process of sales, keeping records of stocks, calculation of bills ,customer history, transactions are being done manually and this system aims to eliminate the manual handling of these activities by making it fully secured, safe, efficient more emphasizing automated.  
+This system will not only automate system for the customers but also for those who are the owners as it will also provide features of CRUD operations.  
+The most highlighting feature is Barcode scanning of product, the customer after seeing all the item when comes to buy at billing section, he or she will have to show the barcode of each Plant which he or she want to buy , the system scans it and show all details stored in it via database. Then finally customer can automatically calculate its bill on machine and gets  print of receipt as soon payment is made.  
